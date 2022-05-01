@@ -64,6 +64,7 @@ custom_proxy_group=📲 facebook`select`.*`[]🎯 拒绝连接
 custom_proxy_group=📲 Line`select`.*`[]🎯 拒绝连接
 custom_proxy_group=📲 Discord`select`.*`[]🎯 拒绝连接
 custom_proxy_group=📲 Weibo`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
+custom_proxy_group=📲 知乎`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=📲 WeChat`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=📲 paypal`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=📲 蝦皮購物`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
