@@ -59,7 +59,6 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ;ruleset=🎯 全球直连,[]GEOIP,LAN
 ruleset=🎯 全球直连,[]GEOIP,CN
-ruleset=🐟 漏网之鱼1,[]FINAL
 ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
@@ -105,7 +104,6 @@ custom_proxy_group=🍎 苹果服务`select`.*`[]🎯 全球直连`[]🎯 拒绝
 custom_proxy_group=🎶 网易音乐`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=🎯 拒绝连接`select`[]REJECT
 custom_proxy_group=🎯 全球直连`select`[]DIRECT
-custom_proxy_group=🐟 漏网之鱼1`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=🐟 漏网之鱼`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=🇭🇰 香港节点`url-test`(港|HK|Hong Kong)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇯🇵 日本节点`url-test`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)`http://www.gstatic.com/generate_204`300,,50
