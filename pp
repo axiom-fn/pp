@@ -46,7 +46,6 @@ ruleset=🔍 google,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 ruleset=🎞️ HamiVideo,https://raw.githubusercontent.com/MengXIFyluy/clash/main/HamiVideo.list
 ruleset=🎞️ Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 ruleset=🎮 steam,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/FQrabbit/SSTap-Rule/master/rules/CSGO-HKuu.rules
 ruleset=🎮 CSGO,https://raw.githubusercontent.com/MengXIFyluy/clash/main/CSGO.list
 ruleset=🎮 Epic,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
 ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
