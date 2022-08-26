@@ -10,6 +10,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
+ruleset=⏰ Download,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Download.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
@@ -66,6 +67,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
+custom_proxy_group=⏰ Download`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=📲 telegram`select`.*`[]🎯 拒绝连接
 custom_proxy_group=📲 Whatsapp`select`.*`[]🎯 拒绝连接
 custom_proxy_group=📲 twitter`select`.*`[]🎯 拒绝连接
