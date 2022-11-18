@@ -21,7 +21,6 @@ ruleset=🎶 kkbox,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clas
 ruleset=🎶 Apple Music,https://raw.githubusercontent.com/MengXIFyluy/clash/main/AppleMusic.list
 ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
 ruleset=📲 telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
-ruleset=📲 Threema,https://raw.githubusercontent.com/MengXIFyluy/clash/main/Threema.list
 ruleset=📲 Whatsapp,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Whatsapp.list
 ruleset=📲 twitter,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
 ruleset=📲 TeamViewer,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TeamViewer.list
@@ -78,7 +77,6 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=📲 telegram`select`.*`[]🎯 拒绝连接
-custom_proxy_group=📲 Threema`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
 custom_proxy_group=📲 Whatsapp`select`.*`[]🎯 拒绝连接
 custom_proxy_group=📲 twitter`select`.*`[]🎯 拒绝连接
 custom_proxy_group=📲 TeamViewer`select`.*`[]🎯 全球直连`[]🎯 拒绝连接
